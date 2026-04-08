@@ -4,11 +4,6 @@
   "lastUpdated": "2026-04-07",
   "content": [
     {
-      "type": "heading",
-      "level": 2,
-      "text": "PRIVACY POLICY"
-    },	
-    {
       "type": "paragraph",
       "text": "The Wine Group LLC, doing business as Meiomi Wines, wants you to be familiar with how we collect, use, share and disclose personal information as defined under applicable privacy law (or PII), including any PII legally defined as sensitive personal information (SPII). This Privacy Policy describes our practices in connection with information that we collect (including information you provide) online or off, via our websites (the “Sites”) or any other interaction with TWG, including purchasing our products (together with use of the Sites, the “Services”). TWG is happy to bring you the best beverages in the business.  For more information about TWG and our brands, please visit www.thewinegroup.com."
     },
@@ -18,7 +13,7 @@
     },	
     {
       "type": "paragraph",
-	  "text": "Look below for our notice for California residents and our Annex 1 describing our PII collection and disclosure practices. "
+	  "text": "Look below for our notice for California residents and our Annex 1 describing our PII collection and disclosure practices. ",
 	  "bold": true
     }
   ]
