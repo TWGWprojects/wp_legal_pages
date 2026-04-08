@@ -11,14 +11,6 @@
       "type": "heading",
       "level": 2,
       "text": "Information We Collect"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Personal identifiers",
-        "Usage data",
-        "Cookies and tracking technologies"
-      ]
     }
   ]
 }
