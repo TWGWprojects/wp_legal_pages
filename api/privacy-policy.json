@@ -746,7 +746,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You can opt out of sharing your information with third-party companies engaged in targeted advertising including social networking websites such as Google and Facebook using the following tools: For websites: https://optout.aboutads.info/?c=2&lang=EN For mobile apps: https://www.aboutads.info/appchoices."
+	  "text": "You can opt out of sharing your information with third-party companies engaged in targeted advertising including social networking websites such as Google and Facebook using the following tools: For websites: <a href=\"https://optout.aboutads.info/?c=2&lang=EN\" target=\"_blank\" rel=\"noopener noreferrer\">https://optout.aboutads.info</a>. For mobile apps: <a href=\"https://www.aboutads.info/appchoices\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.aboutads.info/appchoices</a>."
 	},
 	{
 	  "type": "heading",
@@ -755,7 +755,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "If you would like to opt out of Google Analytics and Ads, you can. If you are on the web, you can opt out of Google Analytics by installing Google’s Opt Out browser add on https://tools.google.com/dlpage/gaoptout, and you can opt out of interest-based Google ads using https://adssettings.google.com/u/0/authenticated."
+	  "text": "You can opt out of sharing your information with third-party companies engaged in targeted advertising including social networking websites such as Google and Facebook using the following tools: For websites: \"https://optout.aboutads.info/?c=2&lang=EN\">. For mobile apps: \"https://www.aboutads.info/appchoices\"https://www.aboutads.info/appchoices</a>."
 	},
 	{
 	  "type": "heading",
@@ -764,7 +764,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "To understand more about Facebook advertising and manage your preferences, please visit https://www.facebook.com/about/ads. Login to Facebook and go to Settings > Ads > Ad Settings (web) or Ad Preferences > Ad Settings (app) for more information."
+	  "text": "To understand more about Facebook advertising and manage your preferences, please visit \"https://www.facebook.com/about/ads\"https://www.facebook.com/about/ads</a>. Log in to Facebook and go to Settings &gt; Ads &gt; Ad Settings (web) or Ad Preferences &gt; Ad Settings (app) for more information."
 	},
 	{
 	  "type": "heading",
