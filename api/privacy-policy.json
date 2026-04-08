@@ -16,11 +16,6 @@
 	  "text": "Look below for our notice for California residents and our Annex 1 describing our PII collection and disclosure practices. ",
 	  "bold": true
     },
-    {
-      "type": "paragraph",
-	  "text": "Look below for our notice for California residents and our Annex 1 describing our PII collection and disclosure practices. ",
-	  "bold": true
-    },
 	{
 	  "type": "paragraph",
 	  "text": "“PII” is information that identifies you as an individual or relates to an identifiable individual. PII we may collect includes:"
@@ -571,7 +566,7 @@
 	},
 	{
 	  "type": "table",
-	  "title": "PII Collection and Disclosure — Business to Business Information",
+	  "title": "Business to Business Information",
 	  "columns": [
 		"Category",
 		"Sources",
