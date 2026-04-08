@@ -755,7 +755,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You can opt out of sharing your information with third-party companies engaged in targeted advertising including social networking websites such as Google and Facebook using the following tools: For websites: \"https://optout.aboutads.info/?c=2&lang=EN\">. For mobile apps: \"https://www.aboutads.info/appchoices\"https://www.aboutads.info/appchoices</a>."
+	  "text": "If you would like to opt out of Google Analytics and Ads, you can. If you are on the web, you can opt out of Google Analytics by installing Google’s Opt-Out Browser Add-on <a href=\"https://tools.google.com/dlpage/gaoptout\" target=\"_blank\" rel=\"noopener noreferrer\"> https://tools.google.com/dlpage/gaoptout</a>, and you can opt out of interest-based Google ads using <a href=\"https://adssettings.google.com/u/0/authenticated\" target=\"_blank\" rel=\"noopener noreferrer\">https://adssettings.google.com/u/0/authenticated</a>."
 	},
 	{
 	  "type": "heading",
