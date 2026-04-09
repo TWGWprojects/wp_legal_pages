@@ -143,7 +143,7 @@
     },
     {
       "type": "paragraph",
-      "text": "While we seek to maintain the timeliness, integrity and security of the Site, we do not guarantee that the Site is or will remain updated, complete, correct or secure, or that access to the Site will be uninterrupted. The Site may include inaccuracies, errors and materials that violate or conflict with this Agreement. Additionally, third parties may make unauthorized alterations to the Site. If you become aware of any such alteration, contact us at info@meiomi.com with a description of such alteration and its location on the Site."
+      "text": "While we seek to maintain the timeliness, integrity and security of the Site, we do not guarantee that the Site is or will remain updated, complete, correct or secure, or that access to the Site will be uninterrupted. The Site may include inaccuracies, errors and materials that violate or conflict with this Agreement. Additionally, third parties may make unauthorized alterations to the Site. If you become aware of any such alteration, contact us at <a href=\"mailto:info@{SITE}.com\" target=\"_blank\" rel=\"noopener noreferrer\">info@{SITE}.com</a> with a description of such alteration and its location on the Site."
     },
     {
       "type": "paragraph",
