@@ -34,11 +34,7 @@ A reusable JavaScript file fetches the JSON and renders the legal page content o
 any website (WordPress, WooCommerce, or static sites). That will need to added to themes js folder.
 <SITENAME> is universal for emails (info@sitename.com)
 
-Legal pages slugs:
-privacy-policy
-terms-of-service
-terms-of-service
-california-privacy-notice
+Legal pages slugs: privacy-policy, terms-of-service, terms-of-service, california-privacy-notice
 
 To use it, include the following HTML markup on your page:
 
