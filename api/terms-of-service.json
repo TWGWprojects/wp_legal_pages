@@ -5,12 +5,248 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "We value your privacy and are committed to protecting your personal data."
+      "text": "Please read these Terms of Service (this “Agreement” or TOS) carefully. This Agreement is between you and The Wine Group LLC doing business as Meiomi Wines (“Company” “TWG,” “we” or “us”) concerning your use of (including any access to) Company’s website, currently located at Meiomi Wines (together with any materials and services available therein, and successor website(s) thereto, the “Site”). This Agreement hereby incorporates by this reference any additional terms and conditions with respect to the Site posted by Company to the Site, or otherwise made available to you by Company.  For more information about Company and our brands, please visit <a href=\"https://www.thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.thewinegroup.com</a>."
     },
     {
-      "type": "heading",
-      "level": 2,
-      "text": "TERMS OF SERVICE"
+      "type": "paragraph",
+      "text": "We may update or change these terms from time to time. Any changes to this Agreement will become effective as indicated in the “Last Updated” line at the bottom of this page."
+    },
+    {
+      "type": "paragraph",
+      "text": "We may update these Terms from time to time. Any changes become effective as indicated in the \"Last Updated\" line at the bottom of this page."
+    },
+    {
+      "type": "paragraph",
+      "bold": true,
+      "text": "By clicking or tapping any button or box marked “accept,” “agree” or “OK” (or a similar term) in connection with this Agreement, or by using the Site, you agree to be bound by this Agreement and our Privacy Policy , and affirm that you are of legal drinking age where you live and have the legal capacity to enter into this Agreement.  THIS AGREEMENT CONTAINS TERMS WHICH LIMIT YOUR RIGHT REGARDING LIABILITY, DISPUTE RESOLUTION, AND YOUR ABILITY TO PURSUE CLASS ACTION LITIGATION.  PLEASE REVIEW THESE TERMS CAREFULLY BEFORE AGREEING."
+    },
+
+    {
+      "type": "paragraph",
+      "text": "<b>1. Restrictions</b> To use the Site, you must be 21 years of age or older, the legal drinking age in the United States, and a resident of the United States.  If you are not, please exit this Site immediately."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>2. Information Submitted Through the Site</b>. Your submission of information to us, including any user generated content, is governed by this Agreement (including the Privacy Policy) and any other terms applicable to your submission (such as the terms of any social media website if you submit user generated content to use via a social media site or application).  You represent, warrant and agree that any information you provide is and will remain accurate and complete, and that you will maintain and update such information as needed.  For more information about how your personal information is handled and your rights under applicable privacy laws, please see our Privacy Policy."
+    },
+    {
+      "type": "paragraph",
+
+      "text": "<b>3. Rules of Conduct</b>. In connection with the Site, you must not:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Post, transmit or otherwise make available through or in connection with the Site any materials that are or may be: (a) threatening, harassing, degrading, hateful or intimidating, or otherwise fail to respect the rights and dignity of others; (b) defamatory, libelous, fraudulent or otherwise tortious or illegal; (c) obscene, indecent, pornographic or otherwise objectionable; or (d) protected by copyright, trademark, trade secret, right of publicity, privacy or any other proprietary or third party right, without the express prior written consent of the applicable owner.",
+        "Post, transmit or otherwise make available through or in connection with the Site any virus, worm, Trojan horse, Easter egg, time bomb, bug, malware, spyware or other computer code, file or program that is or is potentially harmful or invasive or intended to damage or hijack the operation of, or to monitor the use of, any hardware, software or equipment (each, a “Virus”).",
+        "Use the Site for any commercial purpose, or for any purpose that is fraudulent or otherwise tortious or unlawful.",
+        "Harvest, scrape, or collect information about users of the Site.",
+        "Use the Site for any commercial solicitation purposes, or transmit through or in connection with the Site, any spam, chain letters or other unsolicited communications.",
+        "Interfere with or disrupt the operation of the Site or the servers or networks used to make the Site available, including by hacking or defacing any portion of the Site (including any content available thereby); or violate any requirement, procedure or policy of such servers or networks.",
+        "Restrict or inhibit any other person from using the Site.",
+        "Reproduce, modify, adapt, translate, create derivative works of, sell, rent, lease, loan, timeshare, distribute or otherwise exploit any portion of (or any use of) the Site or is contents, except as expressly authorized herein, without Company’s express prior written consent.",
+        "Reverse engineer, decompile or disassemble any portion of the Site, except to the extent such restriction is expressly prohibited by applicable law.",
+        "Remove any copyright, trademark or other proprietary rights notice from the Site.",
+        "Frame or mirror any portion of the Site, or otherwise incorporate any portion of the Site into any product or service, without Company’s express prior written consent.",
+        "Systematically download and store Site content.",
+        "Use any robot, spider, site search/retrieval application or other manual or automatic device to retrieve, index, “scrape,” “data mine” or otherwise gather Site content (including Submissions), or reproduce or circumvent the navigational structure or presentation of the Site, without Company’s express prior written consent. Notwithstanding the foregoing, and subject to compliance with applicable law and any instructions posted in the robots.txt file located in the Site’s root directory, Company grants to the operators of public search engines permission to use spiders to copy materials from the Site for the sole purpose of (and solely to the extent necessary for) creating publicly available, searchable indices of such materials, but not caches or archives of such materials. Company reserves the right to revoke such permission either generally or in specific cases, at any time and without notice."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You are responsible for obtaining, maintaining and paying for all hardware, software, telecommunications and other services needed for you to access the Site (including any applicable device data transmission charges)."
+    },
+
+    {
+      "type": "paragraph",
+      "text": "<b>4. Resources</b>. The Site may make available information, data, materials, services, products, merchandise, functionality or other resources (collectively, “Resources”), as well as references and links to such Resources. Resources may be made available by Company or by others, and may be made available for any purpose, including for general information purposes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Certain descriptions of our products and services may be referenced on the Site (including wine, merchandise, and other items for sale, “Products”); they are approximate and are for convenience only. We make reasonable efforts to accurately display the attributes of Products, including the applicable colors and appearance, however the actual colors and appearance you see will depend on your device, software and settings, vintage etc., and we cannot guarantee that such colors and appearance will be accurately displayed. It is your responsibility to ascertain and obey all applicable local, state, federal and foreign laws (including minimum age requirements) regarding the purchase, possession and use of any Product."
+    },
+
+    {
+      "type": "paragraph",
+      "text": "<b>5. Third‑Party Resources;Links</b>.We may provide access to Resources or content from third parties (“Third Party Resources”), including via links; by using such functionality, you are directing us to access, route and transmit to you the applicable Third Party Resources."
+    },
+   {
+      "type": "paragraph",
+      "text": "We neither control nor endorse, nor are we responsible for, any Third Party Resources, including the accuracy, validity, timeliness, completeness, reliability, integrity, quality, legality, usefulness or safety of Third Party Resources, or any intellectual property rights therein. Nothing in this Agreement will be deemed to be a representation or warranty by Company with respect to any Third Party Resources. We have no obligation to monitor Third Party Resources, and we may block or disable access to any Third Party Resources (in whole or part) through the Site at any time. In addition, the availability of any Third Party Resources through the Site does not imply our endorsement of, or our affiliation with, any provider of such Third Party Resources other than any of our affiliates (including The Wine Group and the other brands presented here), nor does such availability create any legal relationship between you and any such provider. "
+    },
+    {
+      "type": "paragraph",
+      "text": "Your use of Third Party Resources is at your own risk and is subject to any additional terms, conditions and policies applicable to such Third Party Resources (such as terms of service or privacy policies of the providers of such Third Party Resources)."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>6. Transactions</b>. We may make available the ability to purchase or otherwise obtain Products through the Site (a “Transaction”). If you wish to make a Transaction, you may be asked to supply certain relevant information, such as details regarding your method of payment (e.g., your credit or debit card number and its expiration date, or your selection of a payment service), your billing address and, if applicable, your shipping information. You represent and warrant that you have the right to use any payment method (e.g., credit or debit card or payment service) with respect to which you submit information in connection with a Transaction. By submitting payment information, you grant to us the right to provide such information to third parties for purposes of facilitating Transactions. Verification of information may be required prior to the acknowledgment or completion of any Transaction. By making a Transaction, you represent that the applicable Products will be used only in a lawful manner."
     }
+    {
+      "type": "paragraph",
+      "text": "Company reserves the right (but has no obligation), at any time and without liability or prior notice, to limit the availability of or discontinue making available any Product; to change any Product prices prior to purchase; to impose conditions on the honoring of, or discontinue, any coupon, discount, rebate or similar promotion; to bar any user from making any Transaction; and to refuse to provide any user with any Product. You agree to pay all charges incurred by you or on your behalf through the Site, at the prices in effect when such charges are incurred, including all shipping and handling charges. In addition, you are responsible for any taxes applicable to your Transactions. Refunds and exchanges will be subject to Company’s applicable refund and exchange policies. The receipt of an e-mail order confirmation does not constitute our acceptance of an order or our confirmation of an offer to sell a product or service. Transactions may be subject to additional terms, conditions and policies; if, with respect to a Transaction, any such terms, conditions and policies conflict with these Terms of Service, such Transaction terms, conditions and policies will govern with respect to such Transaction to the extent of such conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tangible Products will be shipped to an address designated by you, if applicable, so long as such address is complete and complies with the shipping restrictions contained on the Site. All Transactions with respect to tangible Products are made pursuant to a shipment contract and, as a result, risk of loss and title for Products pass to you upon delivery of such Products to the carrier. You are responsible for filing any claims with carriers for damaged and/or lost shipments."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, some of our brands may offer a wine club.  In order to purchase any wine, including becoming a member of our wine club, you must be 21 years of age or older and someone, age 21 or older, must be at the “ship-to” address to sign for the package on the day of delivery. Packages will not be left at your door.  Shipping charges for returned and undelivered shipments will be at your expense."
+    },
+    {
+      "type": "paragraph",
+      "text": "You understand that wine club memberships are an ongoing membership. You must cancel your membership at least 30 days prior to your next shipment.  The credit card on file will be charged prior to shipping.  Additional terms will be provided when you sign up for the membership and on the membership page on this Site"
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>7. Registration; User Names and Passwords</b>. You may need to register or otherwise enter a user name, password or other data, information or credential with respect to the Site, whether provided by you or provided to you (collectively, “Access Credentials”), to use all or part of the Site. We may reject, or require that you change, any Access Credential that you provide, and we may change or terminate any Access Credential that we may provide to you, in each case in our sole discretion. Your Access Credentials are for your personal use only in accordance with this Agreement and you should keep them confidential; you, and not Company, are responsible for any use or misuse of your Access Credentials, and, in each case, you must promptly notify us of any actual or suspected confidentiality breach or unauthorized use of your Access Credentials or your Site account."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>8. Submissions</b>. You may be able to post or submit content (including but not limited to photos/videos, text, comments, art, graphics, designs, user generated content, ideas, or other information) by: 1. Transmitting via the Site, or posting to the Site or our brand pages on social media, 2. by identifying us in a hashtag or tagging us on any social media or other platform, or 3. via any other communication methods (including but not limited to email or text message), including as part of a Promotion (as defined below) (together with Your Product Photos (as defined below), your “Submission”). "
+    },
+    {
+      "type": "paragraph",
+      "text": "For purposes of clarity, you retain ownership of each Submission.  You hereby grant to us a non-exclusive, worldwide, royalty-free, fully paid-up, perpetual, irrevocable, transferable and fully sublicensable (through multiple tiers) license, without additional consideration to you or any third party, to reproduce, distribute, perform and display (publicly or otherwise), create derivative works of, adapt, modify, store and otherwise use, analyze and exploit your Submission, in any format or media now known or hereafter developed, and for any purpose (including promotional purposes, such as testimonials), including any name, signature, voice, image, likeness, performance, movements, personal characteristics, gestures and mannerisms (collectively, “Likeness”) of a natural person included in your Submission.  Submissions include any images of any Product that you transmit to us or post through any social media website or online service or other publicly available online service (any such image, “Your Product Photo”), including any such image accompanied by a hashtag reference using any of our trademarks or any other terms, slogans or keywords referencing Company or its products and/or services."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, if you provide to us any ideas, proposals, suggestions or other materials as part of any Submission, whether related to the Site, Service, Product or otherwise, you hereby acknowledge and agree that such Submission is not confidential, and that your provision of such Submission is gratuitous, unsolicited and without restriction, and does not place Company under any fiduciary or other obligation."
+    },
+    {
+      "type": "paragraph",
+      "text": "You represent and warrant that (a) you have all rights necessary to grant the licenses granted in this section; (b) your Submissions are complete and accurate; and (c) your Submissions and your provision thereof to us (whether through and in connection with the Site, or otherwise), and your provision thereof are not fraudulent, tortious or otherwise in violation of any applicable law or any right of any third party (including any contractual, intellectual property, publicity, Likeness, or privacy rights). You further irrevocably waive any “moral rights” or other rights with respect to attribution of authorship or integrity of materials regarding your Submissions that you may have under any applicable law under any legal theory."
+    },
+    {
+      "type": "paragraph",
+      "text": "We may request you provide releases or proof of permission from any third parties depicted in your Submission.  You agree to pay for all royalties, fees and other monies owing to any person by reason of any Submission you transmit to Company."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>9. Monitoring</b>. We may (but have no obligation to) monitor, moderate and/or analyze your use of the Site, and monitor, moderate, analyze, alter and/or remove Submissions before or after they appear on the Site. We may disclose information regarding your access to and use of the Site, and the circumstances surrounding such access and use, to anyone for any reason or purpose."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>10. Your Limited Rights</b>. Subject to your compliance with this Agreement, and solely for so long as you are permitted by Company to use the Site, you may view and use any portion of the Site to which we provide you access under this Agreement, solely in accordance with the functionality that we make available to you, solely for your personal, non-commercial use."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>11. Company’s Proprietary Rights</b>. As between you and us, we own the Site and all content thereon, which is protected by proprietary rights and laws. All trade names, trademarks, service marks, logos and copyrightable works available through the Site are the property of their respective owners and nothing contained on the Site should be construed as granting any right to use them without the express prior written consent of the owner.  You agree you will not use our trade names, trademarks, service marks or logos or copyrighted content in connection with any product or service that is not ours, or in any manner that is likely to cause confusion."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>12. Promotions</b>. Any sweepstakes, contests, raffles, surveys, games, coupons, rebates or similar promotions (collectively, “Promotions”) made available through the Site may be governed by rules that are separate from these Terms of Service. If you participate in any Promotions, please review the applicable rules as well as the Privacy Policy. If the rules for a Promotion conflict with these Terms of Service, the Promotion rules will govern with respect to such Promotion to the extent of such conflict."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>13. Disclaimer of Warranties</b>. To the fullest extent permitted under applicable law: (a) the Site and any Resources (including any Third Party Resources and Products) are made available to you on an “As Is,” “Where Is” and “Where Available” basis, without any warranties of any kind, whether express, implied or statutory; and (b) Company disclaims all warranties with respect to the Site and any Resources (including any Third Party Resources), including the warranties of merchantability, fitness for a particular purpose, non-infringement and title. All disclaimers of any kind (including in this section and elsewhere in this Agreement) are made for the benefit of Company, its affiliates and their respective owners, directors, officers, employees, affiliates, agents, representatives, licensors, suppliers and service providers, and their respective successors and assigns (collectively, the “Company Parties”)."
+    },
+    {
+      "type": "paragraph",
+      "text": "While we seek to maintain the timeliness, integrity and security of the Site, we do not guarantee that the Site is or will remain updated, complete, correct or secure, or that access to the Site will be uninterrupted. The Site may include inaccuracies, errors and materials that violate or conflict with this Agreement. Additionally, third parties may make unauthorized alterations to the Site. If you become aware of any such alteration, contact us at info@meiomi.com with a description of such alteration and its location on the Site."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>14. Limitation of Liability</b>. To the fullest extent permitted under applicable law: (a) no Company Party will be liable for any direct, indirect, incidental, consequential, special, exemplary or punitive damages of any kind arising out of or in connection with the Site or this Agreement, under any contract, tort (including negligence), strict liability or other theory, including damages for diminution of value, loss of profits, loss of revenue, loss of business, loss of use or data, loss of goodwill, loss of other intangibles, loss of security of Submissions (including unauthorized interception by third parties of any Submission), even if advised in advance of the possibility of such damages or losses; (b) without limiting the foregoing, no Company Party will be liable for damages of any kind resulting from your use of or inability to use the Site or from any Resources (including any Third Party Resources or Products), including from any Virus that may be transmitted in connection therewith; (c) except as set forth in Section 6 “Transactions” above, your sole and exclusive remedy for dissatisfaction with the Site or any Resources (including any Third Party Resources) is to stop using the Site; and (d) the maximum aggregate liability of all Company Parties, collectively, for all damages, losses and causes of action, whether in contract, tort (including negligence) or otherwise, will be equal to the greater of (i) the total amount, if any, paid by you to Company in connection with this Agreement during a twelve (12)-month period; and (ii) twenty U.S. dollars ($20).  ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SITE MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CLAIM OR CAUSE OF ACTION ACCRUES, OTHERWISE SUCH CLAIM AND CAUSE OF ACTION WILL BE PERMANENTLY BARRED.  All limitations of liability of any kind (including in this section and elsewhere in this Agreement) are made for the benefit of both Company and the each of the other Company Parties."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party’s liability will be limited to the greatest extent permitted by law."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>15. Indemnity</b>. To the fullest extent permitted under applicable law, you agree to defend, indemnify and hold harmless each Company Party from and against all claims, liabilities, damages, judgments, awards, losses, costs, expenses and fees (including attorneys’ fees and expenses) arising out of or relating to (a) your use of, or activities in connection with, the Site (including Your Submissions); or (b) any violation or alleged violation of this Agreement by you."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>16. Termination</b>. This Agreement is effective until terminated. Company may terminate this Agreement or suspend your right to use the Site at any time and without prior notice, for any or no reason, including if Company believes that you have violated or acted inconsistently with the letter or spirit of this Agreement. Upon any such termination or suspension, your right to use the Site will immediately cease, and Company may, without liability to you or any third party, immediately deactivate or delete your Access Credentials, your Submissions and all associated materials, without any obligation to provide any further access to such materials. The preamble and Sections 2-9 and 11-23 will survive any termination of this Agreement."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>17. Jurisdictional Issues</b>. The Site is controlled or operated (or both) from California, United States, and is not intended to subject Company to any non-U.S. jurisdiction or law. The Site may not be appropriate or available for use in some non-U.S. jurisdictions. Any use of the Site is at your own risk, and you must comply with all applicable laws, rules and regulations in doing so. We may limit the Site’s availability at any time, in whole or in part, to any person, geographic area or jurisdiction that we choose."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>18. Governing Law; Arbitration; Class Action Waiver</b>. This Agreement, your use of (including any access to) the Site (including all Transactions), and all related matters are governed solely by, and construed solely in accordance with, the laws of the United States (including federal arbitration law) and the State of California, U.S.A., without regard to its principles of conflicts of law that would cause the application of the laws of any other jurisdiction, and regardless of your location. Except for disputes that qualify for small claims court, all disputes arising out of or related to this Agreement, your use of (including any access to) the Site (including all Transactions) and all related matters, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory, will be resolved through final and binding arbitration before a neutral arbitrator instead of in a court by a judge or jury and you agree that Company and you are each waiving the right to trial by a jury. You agree that any arbitration under this Agreement will take place on an individual basis; class arbitrations and class actions are not permitted and you are agreeing to give up the ability to participate in a class arbitration or class action. The arbitration will be administered by the American Arbitration Association (the “AAA”) under its Consumer Arbitration Rules (currently available at <a href=\"https://www.adr.org/rules-forms-and-fees/consumer/consumer-arbitration-rules-2025\" target=\"_blank\" rel=\"noopener noreferrer\">Consumer_Rules_Web_0.pdf</a>, as amended by this Agreement. The arbitrator will conduct hearings, if any, by teleconference or videoconference, rather than by personal appearances, unless the arbitrator determines upon request by you or by us that an in-person hearing is appropriate. Any in-person appearances will be held at a location which is reasonably convenient to both parties with due consideration of their ability to travel and other pertinent circumstances. If the parties are unable to agree on a location, such determination should be made by the AAA or by the arbitrator. The arbitrator’s decision will follow the terms of this Agreement and will be final and binding. The arbitrator will have authority to award temporary, interim or permanent injunctive relief or relief providing for specific performance of this Agreement, but only to the extent necessary to provide relief warranted by the individual claim before the arbitrator. The award rendered by the arbitrator may be confirmed and enforced in any court having jurisdiction thereof. Notwithstanding any of the foregoing, nothing in this Agreement will preclude you from bringing issues to the attention of federal, state or local agencies and, if applicable law allows, they can seek relief against us for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>19. Parental Control Protections</b>. We hereby notify you that parental control protections (such as computer hardware, software or filtering services) are commercially available that may assist you in limiting access to material that is harmful to minors. Information identifying current providers of such protections is available from <a href=\"https://en.wikipedia.org/wiki/Comparison_of_content-control_software_and_providers\" target=\"_blank\" rel=\"noopener noreferrer\">https://en.wikipedia.org/wiki/Comparison_of_content-control_software_and_providers</a>. Please note that Company does not endorse any of the products or services listed on such site."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>20. Information or Complaints</b>. If you have a question or complaint regarding the Site, please send an e-mail to info@meiomi.com. You may also contact us by writing to Information Request/Complaint, 17000 East Highway 120, Ripon, CA, or by calling us at (925) 456-2500. Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. California residents may reach the Complaint Assistance Unit of the Division of Consumer services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>21. Copyright Infringement Claims</b>. We are committed to respecting the legal rights of copyright owners, including those who believe that material appearing on the Internet infringes their rights under U.S. copyright law. If you believe in good faith that materials available from the Site infringe your copyright, you (or your agent) may send to Company a written notice by mail or e-mail, requesting that Company remove such material or disable access to it. If you believe in good faith that someone has wrongly submitted to us a notice of copyright infringement involving content that you made available through the Site, you may send to Company a counter-notice."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you believe that your work has been copied and posted on the Site in a way that constitutes copyright infringement, please provide our designated agent with the following minimum information:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;",
+        "a description and identification of the copyrighted work or other intellectual property that you claim has been infringed, or, if multiple copyrighted works at a single online website are covered by a single notification, a representative list of such works at that website;",
+        "a description of where the material that you claim is infringing is located on the Site in a manner sufficient to permit us to locate the material;",
+        "your address, telephone number, and email address;",
+        "a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright or intellectual property owner, its agent, or the law; and",
+        "a statement by you, made under penalty of perjury, that the information contained in your report is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner’s behalf. "
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notices and counter-notices must be sent in writing to our designated DMCA agent as follows: By mail to GENERAL COUNSEL, The Wine Group LLC, 17000 East Highway 120, Ripon, CA 95336; by e-mail to copyright@thewinegroup.com. You can also reach our DMCA agent at the following telephone number: 925-456-2500."
+    },
+    {
+      "type": "paragraph",
+      "text": "We suggest that you consult your legal advisor before sending a DMCA notice or counter-notice. It is Company’s policy to terminate, in appropriate circumstances, a Site user’s right to use the Site if they are deemed by Company to be repeat infringers."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>22. Export Controls</b>. You are responsible for complying with United States export controls and for any violation of such controls, including any United States embargoes or other federal rules and regulations restricting exports. You represent, warrant and covenant that you are not (a) located in, or a resident or a national of, any country subject to a U.S. government embargo or other restriction, or that has been designated by the U.S. government as a “terrorist supporting” country; or (b) on any of the U.S. government lists of restricted end users."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>23. Notification Procedures</b>. Anything sent to you is considered received immediately if sent to you by electronic notification without any indication of failed communication. An electronic notification is sent at the time it is directed by us to your email address or other means of receiving electronic notifications. You agree these are reasonable procedures for sending and receiving electronic notifications. We reserve the right, but are under no obligation, to send notifications in a paper format."
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>24. Miscellaneous</b>. This Agreement does not, and will not be construed to, create any partnership, joint venture, employer-employee, agency or franchisor-franchisee relationship between you and Company. If any provision of this Agreement is found to be unlawful, void or for any reason unenforceable, that provision will be deemed severable from this Agreement and will not affect the validity and enforceability of any remaining provision. You may not assign, transfer or sublicense any or all of your rights or obligations under this Agreement. We may assign, transfer or sublicense any or all of our rights or obligations under this Agreement without restriction. No waiver by either party of any breach or default under this Agreement will be deemed to be a waiver of any preceding or subsequent breach or default. Any heading, caption or section title contained herein is for convenience only, and in no way defines or explains any section or provision. All terms defined in the singular will have the same meanings when used in the plural, where appropriate and unless otherwise specified. Any use of the term “including” or variations thereof in this Agreement will be construed as if followed by the phrase “without limitation.” This Agreement, including any terms and conditions incorporated herein, is the entire agreement between you and Company relating to the subject matter hereof, and supersedes any and all prior or contemporaneous written or oral agreements or understandings between you and Company relating to such subject matter. Notices to you (including notices of changes to this Agreement) may be made via posting to the Site or by e-mail to the most recent email address that you have provided to us (including in each case via links), or by regular mail to the most recent mailing address that you have provided to us. Without limitation, a printed version of this Agreement and of any notice given in electronic form will be admissible in judicial or administrative proceedings based upon or relating to this Agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. Company will not be responsible for any failure to fulfill any obligation due to any cause beyond its control."
+    },
+    {
+      "type": "title",
+      "level": 3,
+      "text": "NOTICES TO CALIFORNIA CONSUMERS"
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>california Transparency in Supply Chains Act: <a href=\"https://www.thewinegroup.com/supply-chain-transparency\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.thewinegroup.com/supply-chain-transparency</a></b>"
+    },
+    {
+      "type": "title",
+      "level": 3,
+      "text": "Proposition 65"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prop 65 entitles California consumers to warnings for the following products:"
+    },
+    {
+      "type": "paragraph",
+      "text": "WARNING: Drinking Distilled Spirits, Beer, Coolers, Wine and Other Alcoholic Beverages May Increase Cancer Risk, and, During Pregnancy, Can Cause Birth Defects.  For More Information, Go to <a href=\"https://www.p65warnings.ca.gov/products/alcoholic-beverages\" target=\"_blank\" rel=\"noopener noreferrer\">www.P65Warnings.ca.gov/alcohol</a>."
+    },
+    {
+      "type": "paragraph",
+      "text": "WARNING: Many food and beverage cans have linings containing bisphenol A (BPA), a chemical known to the State of California to cause harm to the female reproductive system. Jar lids and bottle caps may also contain BPA. You can be exposed to BPA when you consume foods or beverages packaged in these containers. For more information, go to: <a href=\"https://www.p65warnings.ca.gov/chemicals/bisphenol-bpa\" target=\"_blank\" rel=\"noopener noreferrer\">www.P65Warnings.ca.gov/BPA</a>. For a list of products go to: <a href=\"https://www.kellydigital.com/q-store/prop65/\" target=\"_blank\" rel=\"noopener noreferrer\">www.prop65bpa.org</a>."
+    },
+    {
+      "type": "paragraph",
+      "text": "Site © 1997 – 2026 The Wine Group LLC unless otherwise noted. All rights reserved."
+    },
+
   ]
 }
