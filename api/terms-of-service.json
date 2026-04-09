@@ -175,7 +175,7 @@
     },
     {
       "type": "paragraph",
-      "text": "<b>20. Information or Complaints</b>. If you have a question or complaint regarding the Site, please send an e-mail to info@meiomi.com. You may also contact us by writing to Information Request/Complaint, 17000 East Highway 120, Ripon, CA, or by calling us at (925) 456-2500. Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. California residents may reach the Complaint Assistance Unit of the Division of Consumer services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210."
+      "text": "<b>20. Information or Complaints</b>. If you have a question or complaint regarding the Site, please send an e-mail to <a href=\"mailto:info@{SITE}.com\" target=\"_blank\" rel=\"noopener noreferrer\">info@{SITE}.com</a>. You may also contact us by writing to Information Request/Complaint, 17000 East Highway 120, Ripon, CA, or by calling us at (925) 456-2500. Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. California residents may reach the Complaint Assistance Unit of the Division of Consumer services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210."
     },
     {
       "type": "paragraph",
@@ -198,7 +198,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Notices and counter-notices must be sent in writing to our designated DMCA agent as follows: By mail to GENERAL COUNSEL, The Wine Group LLC, 17000 East Highway 120, Ripon, CA 95336; by e-mail to copyright@thewinegroup.com. You can also reach our DMCA agent at the following telephone number: 925-456-2500."
+      "text": "Notices and counter-notices must be sent in writing to our designated DMCA agent as follows: By mail to GENERAL COUNSEL, The Wine Group LLC, 17000 East Highway 120, Ripon, CA 95336; by e-mail to <b><a href=\"mailto:copyright@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">copyright@thewinegroup.com</a></b>. You can also reach our DMCA agent at the following telephone number: 925-456-2500."
     },
     {
       "type": "paragraph",
