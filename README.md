@@ -32,12 +32,16 @@ Each JSON file includes:
 
 A reusable JavaScript file fetches the JSON and renders the legal page content on
 any website (WordPress, WooCommerce, or static sites). That will need to added to themes js folder.
+<SITENAME> is universal for emails (info@sitename.com)
 
 To use it, include the following HTML markup on your page:
 
 ```html
-<div id="legal-page" data-slug="privacy-policy">
-  <h1 id="legal-title"></h1>
-  <p id="legal-last-updated"></p>
-  <div id="legal-content"></div>
-</div>
+
+<body data-legal-site="<SITENAME>">
+  <div id="legal-page" data-slug="terms-of-service">
+    <p id="legal-last-updated"></p>
+    <h1 id="legal-title"></h1>
+    <div id="legal-content"></div>
+  </div>
+</body>
