@@ -32,7 +32,7 @@ Each JSON file includes:
 
 A reusable JavaScript file fetches the JSON and renders the legal page content on
 any website (WordPress, WooCommerce, or static sites). That will need to added to themes js folder.
-<SITENAME> is universal for emails (info@sitename.com)
+*SITENAME* is universal for emails (info@sitename.com)
 
 Legal pages slugs: 
 - privacy-policy
