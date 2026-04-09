@@ -5,7 +5,7 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "The Wine Group LLC, doing business as Meiomi Wines, wants you to be familiar with how we collect, use, share and disclose personal information as defined under applicable privacy law (or PII), including any PII legally defined as sensitive personal information (SPII). This Privacy Policy describes our practices in connection with information that we collect (including information you provide) online or off, via our websites (the “Sites”) or any other interaction with TWG, including purchasing our products (together with use of the Sites, the “Services”). TWG is happy to bring you the best beverages in the business.  For more information about TWG and our brands, please visit www.thewinegroup.com."
+      "text": "The Wine Group LLC, doing business as Meiomi Wines, wants you to be familiar with how we collect, use, share and disclose personal information as defined under applicable privacy law (or PII), including any PII legally defined as sensitive personal information (SPII). This Privacy Policy describes our practices in connection with information that we collect (including information you provide) online or off, via our websites (the “Sites”) or any other interaction with TWG, including purchasing our products (together with use of the Sites, the “Services”). TWG is happy to bring you the best beverages in the business.  For more information about TWG and our brands, please visit <a href=\"https://www.thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.thewinegroup.com</a>."
     },
     {
       "type": "paragraph",
@@ -18,7 +18,7 @@
     },
 	{
 	  "type": "paragraph",
-	  "text": "“PII” is information that identifies you as an individual or relates to an identifiable individual. PII we may collect includes:"
+	  "text": "<b>“PII”</b> is information that identifies you as an individual or relates to an identifiable individual. PII we may collect includes:"
 	},
 	{
 	  "type": "list",
@@ -41,7 +41,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "We may collect personal information from you, online and offline. Offline, we may receive information from you through telephone, written correspondence, and in person, including at our wineries, tasting rooms, or events. Online, we may receive information through our Sites, affiliated websites, a brand page on social media websites or similar online activities, email, user generated content, and via mobile phone applications or SMS (text message) correspondence. Generally, such information will be collected directly from you, such as through a transaction, inquiry or your submission of a form, registration or communication to us. Information may also be gathered from service providers, such as marketing and fulfillment companies, opt-in lists, and referrals, and through your activities and interactions with us, including, without limitation, your online activity on our Sites and social media pages. We may combine data we collect from these types of sources. Any of your personal information or other information gathered by one of our brands may be shared with and used by any of our other brands in accordance with this Privacy Policy. To see a complete list of what we collect and how we use this data, please see Annex 1 below."
+	  "text": "We may collect personal information from you, online and offline.  Offline, we may receive information from you through telephone, written correspondence, and in person, including at our wineries, tasting rooms, or events. Online, we may receive information through our Sites, affiliated websites, a brand page on social media websites or similar online activities, email, user generated content, and via mobile phone applications or SMS (text message) correspondence. Generally, such information will be collected directly from you, such as through a transaction, inquiry or your submission of a form, registration or communication to us. Information may also be gathered from service providers, such as marketing and fulfillment companies, opt-in lists, and referrals, and through your activities and interactions with us, including, without limitation, your online activity on our Sites and social media pages.  We may combine data we collect from these types of sources.  Any of your personal information or other information gathered by one of our brands may be shared with and used by any of our other brands in accordance with this Privacy Policy. To see a complete list of what we collect and how we use this data, please see Annex 1 below."
 	},
 	{
 	  "type": "heading",
@@ -132,7 +132,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "Cookies are pieces of information stored directly on the device that you are using. Cookies allow us to collect information such as browser type, time spent on the Sites, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Sites, as well as for online tracking purposes. We can recognize your computer to enhance your use of the Sites. We also gather statistical information about the usage of the Sites in order to periodically improve the design and functionality, understand how the Sites are used and to assist us with resolving questions regarding the Sites. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Sites. We may also use cookies in online advertising to track responses to our advertisements and we may use cookies or other files to track your use of other Sites. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Sites."
+	  "text": "Cookies are pieces of information stored directly on the device that you are using. Cookies allow us to collect information such as browser type, time spent on the Sites, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Sites, as well as for online tracking purposes. We can recognize your computer to enhance your use of the Sites. We also gather statistical information about the usage of the Sites in order to periodically improve the design and functionality, understand how the Sites are used and to assist us with resolving questions regarding the Sites. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Sites. We may also use cookies in online advertising to track responses to our advertisements and we may use cookies or other files to track your use of other Sites. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <a href=\"https://allaboutcookies.org/how-to-manage-cookies\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.allaboutcookies.org/manage-cookies/index.html</a>. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Sites. For example, we may not be able to recognize your computer and you may need to log in every time you visit the Sites. You also may not receive advertising or other offers from us that are relevant to your interests and needs."
 	},
 	{
 	  "type": "heading",
@@ -141,7 +141,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "We may use analytics services, which rely on cookies and similar technologies to collect and analyze information about use of the Sites and Services, and report on activities and trends. These services may also collect information regarding the use of other Sites, apps and online resources."
+	  "text": "We may use analytics services, which rely on cookies and similar technologies to collect and analyze information about use of the Sites and Services, and report on activities and trends.  These services may also collect information regarding the use of other Sites, apps and online resources."
 	},
 	{
 	  "type": "heading",
@@ -150,25 +150,20 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "Pixels (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Sites (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Sites and response rates."
+	  "text": "Pixels(also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Sites (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Sites and response rates."
 	},
 	{
 	  "type": "heading",
 	  "level": 3,
-	  "text": "Using Adobe Flash Technology and Other Similar Technologies"
+	  "text": "Using Adobe Flash Technology (Including Flash Local Shared Objects (“Flash LSOs”)) And Other Similar Technologies:"
 	},
 	{
 	  "type": "paragraph",
-	  "text": "We may use Flash LSOs and other technologies to collect and store information about your use of the Sites. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Site Storage Settings Panel or Global Storage Settings Panel. Please note that restricting Flash LSOs may reduce or impede the functionality of some Flash applications used in connection with the Sites."
-	},
-	{
-	  "type": "heading",
-	  "level": 3,
-	  "text": "IP Address"
+	  "text": "We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Sites. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Site Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to “information” on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Sites or our online content."
 	},
 	{
 	  "type": "paragraph",
-	  "text": "Your IP Address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). We collect and use IP Addresses for purposes such as calculating usage levels of the Sites, helping diagnose server problems, and administering the Sites."
+	  "text": "<b>IP Address</b>: Your “IP Address” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Sites, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We collect and use IP Addresses for purposes such as calculating usage levels of the Sites, helping diagnose server problems, and administering the Sites."
 	},
 	{
 	  "type": "heading",
@@ -190,7 +185,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "We use Google Analytics and Facebook Pixel to understand how our website, services, and products perform, how you use them, and to serve you with ads on third-party websites and social networking websites like Facebook. To learn more about how Google processes your data, please visit https://www.google.com/policies/privacy/. To opt out of Google Analytics please visit https://tools.google.com/dlpage/gaoptout. To learn more about how Facebook uses your data, please visit https://www.facebook.com/policy.php."
+	  "text": "We use Google Analytics and Facebook Pixel to understand how our website, services, and products perform, how you use them, and to serve you with ads on third-party websites and social networking websites like Facebook. To learn more about how Google processes your data, please visit <a href=\"https://policies.google.com/privacy\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.google.com/policies/privacy</a>.  To opt out of Google Analytics please visit  <a href=\"https://tools.google.com/dlpage/gaoptout\" target=\"_blank\" rel=\"noopener noreferrer\">https://tools.google.com/dlpage/gaoptout</a>. To learn more about how Facebook uses your data, please visit <a href=\"https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.facebook.com/policy.php</a>."
 	},
 	{
 	  "type": "heading",
@@ -199,7 +194,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You can also opt out from companies like Google, Instagram, Pinterest, Facebook and other participating companies through the Digital Advertising Alliance in the USA: https://www.aboutads.info/choices. You can also opt out of participating companies from the Digital Advertising Alliance of Canada in Canada: https://youradchoices.ca/ or opt out using your mobile device settings at https://www.aboutads.info/choices."
+	  "text": "You can also opt out from companies like Google, Instagram, Pinterest, Facebook and other participating companies through the Digital Advertising Alliance in the USA:  <a href=\"https://optout.aboutads.info\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.aboutads.info/choices</a>. You can also opt out of participating companies from the Digital Advertising Alliance of Canada in Canada: <a href=\"https://youradchoices.ca\" target=\"_blank\" rel=\"noopener noreferrer\">https://youradchoices.ca/</a> or opt out using your mobile device settings at  <a href=\"https://optout.aboutads.info\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.aboutads.info/choices</a>."
 	},
 	{
 	  "type": "heading",
@@ -217,11 +212,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "We may aggregate PII and use the aggregated information to analyze the effectiveness of our Service, to improve and add features to our Service, and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Service and share aggregated information like general user statistics with prospective service providers. We may collect aggregated information through the Services, through cookies, and through other means described in this Privacy Policy."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "Once we have aggregated or de-identified PII, we will not reidentify, or attempt to reidentify, that information. Additionally, we will require all service providers who handle that aggregated or de-identified information to not reidentify, or attempt to reidentify, that information."
+	  "text": "We may aggregate PII and use the aggregated information to analyze the effectiveness of our Service, to improve and add features to our Service, and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Service and share aggregated information like general user statistics with prospective service providers. We may collect aggregated information through the Services, through cookies, and through other means described in this Privacy Policy.Once we have aggregated or de-identified PII, we will not reidentify, or attempt to reidentify, that information. Additionally, we will require all service providers who handle that aggregated or de-identified information to not reidentify, or attempt to reidentify, that information."
 	},
 	{
 	  "type": "heading",
@@ -230,7 +221,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "We may use advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other Sites, based on information relating to your access to and use of the Services and other Sites. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit https://www.networkadvertising.org/managing/opt_out.asp and https://www.aboutads.info/."
+	  "text": "We may use advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other Sites, based on information relating to your access to and use of the Services and other Sites. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit <a href=\"https://thenai.org/glossary/opt-out-mechanism\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.networkadvertising.org/managing/opt_out.asp</a> and <a href=\"https://youradchoices.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.aboutads.info/</a>."
 	},
 	{
 	  "type": "heading",
@@ -248,7 +239,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "We use reasonable organizational, technical and administrative measures designed to protect PII within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below."
+	  "text": "We use reasonable organizational, technical and administrative measures designed to protect PII within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contacting Us” section below."
 	},
 	{
 	  "type": "heading",
@@ -257,7 +248,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt out of receiving these emails by using the opt-out mechanism contained in each such email."
+	  "text": "If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by using the opt-out mechanism contained in each such email."
 	},
 	{
 	  "type": "paragraph",
@@ -270,7 +261,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "The Services are not directed to individuals under the age of twenty-one (21). We do not knowingly collect PII from individuals under 21, and we request that individuals under 21 do not use or access the Services and do not provide PII through the Services."
+	  "text": "The Services are not directed to individuals under the age of twenty-one (21). We do not knowingly collect PII from individuals under 21, and we request that individuals under 21 do not use or access the Services and that they do not provide PII through the Services."
 	},
 	{
 	  "type": "heading",
@@ -279,7 +270,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "The Services are controlled and operated by us from California, United States, and are not intended to subject us to the laws or jurisdiction of any area other than California, United States. If you are a resident of any country other than the United States, we may transfer Personal Information that we collect about you outside of your country, including the United States, for the purposes described in this Privacy Policy, including processing by third-party service providers."
+	  "text": "The Services are controlled and operated by us from California, United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of California, United States.  If you are a resident of any country other than the United States, we may transfer Personal Information that we collect about you outside of your country, including the United States, for the purposes set out in this Privacy Policy, and including for processing by third-party service providers in connection with those purposes.  Our third-party service providers may perform processing activities outside of your country of residence. "
 	},
 	{
 	  "type": "heading",
@@ -288,12 +279,12 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "If you have any questions about this Privacy Policy, please contact us at privacy@thewinegroup.com."
+	  "text": "If you have any questions about this Privacy Policy, please contact us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
 	},
 	{
-	  "type": "heading",
-	  "level": 2,
-	  "text": "California Consumer Privacy Act (CCPA) Privacy Notice"
+	  "type": "paragraph",
+	  "bold": true,
+	  "text": "<b>California Consumer Privacy Act (CCPA) Privacy Notice</b>"
 	},
 	{
 	  "type": "paragraph",
@@ -301,11 +292,11 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "The Wine Group has prepared this California Consumer Privacy Act (“CCPA”) Privacy Notice to inform California residents of the Personally Identifiable Information (“PII”) that we collect and how we use and disclose that information, as well as the privacy rights California residents may have and how those rights can be exercised."
+	  "text": "The Wine Group has prepared this California Consumer Privacy Act (“<b>CCPA</b>”) Privacy Notice (the “<b>Notice</b>”) to inform California residents of the Personally Identifiable Information (“PII”) that we collect and how we use and disclose that information, and  the privacy rights California residents may have relating to their PII and how those rights can be exercised."
 	},
 	{
 	  "type": "paragraph",
-	  "text": "This Notice is incorporated into and forms part of our Privacy Policy. By accessing or using the Sites or Services, you agree to the practices described in this Notice. If you do not agree, please do not access or use the Services."
+	  "text": "This Notice is incorporated into and forms part of our <b><a href=\"https://www.thewinegroup.com/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a></b>. By accessing or using the Sites or our Services, you agree to the practices described in this Notice. If you do not agree to this Notice, please do not access the Sites or otherwise use the Services."
 	},
 	{
 	  "type": "heading",
@@ -347,17 +338,24 @@
 			"From social media platforms and similar services"
 		  ],
 		  "Purpose": [
-			"To respond to your inquiries",
-			"To fulfill your requests",
-			"To fulfill orders of products",
-			"To send information to and communicate with you"
+			"To respond to your inquiries, fulfill your requests, and/or fulfill your orders of our products.",
+			"To send information to and communicate with you, including marketing communications that we believe may be of interest.",
+			"To confirm you are of legal drinking age.",
+			"To personalize your experience by presenting products and offers tailored to you by us, our partners, and authorized third parties, and to facilitate social sharing functionality.",
+			"To allow you to participate in sweepstakes, contests, surveys and similar promotions and to administer these activities. Some of these activities may have additional rules containing information about how we use and disclose your PII. Please read those rules carefully.",
+			"For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, improving or modifying our Services, identifying usage trends, determining the effectiveness of promotional campaigns, and operating and expanding business activities, and similar purposes.",
 		  ],
 		  "Disclosed To": [
-			"Affiliates for purposes described in this Privacy Policy",
-			"Third-party service providers that provide services such as Site hosting and related services"
+			"To our affiliates for the purposes described in this Privacy Policy.",
+			"To our third-party service providers who provide services such as Site hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services. This includes third-party sponsors and fulfillment vendors of sweepstakes, contests, surveys and similar promotions.",
+			"When you share on social media, to your friends associated with your social media account and to the social media account provider. By connecting us to your social media account you authorize us to share information with your social media account provider and you understand that the use of the information we share will be governed by the social media site’s privacy policy. If you do not want your PII shared with other users or with your social media account provider, please do not connect your social media account with your Site account and do not participate in social sharing on the Sites.",
+			"We may share your personal information with social media platforms such as Facebook and Instagram and with Google Analytics to serve you advertisements on our behalf and to provide analytics services. Depending on your place of residence, the circumstances, and the contractual obligations in place, this sharing may be considered a “sale” or “sharing,” and you may have the right to request that we stop such sharing as set forth in this Privacy Policy. For more information on this type of sharing and how you may opt out, see the “Third Party Advertising and Analytics Disclaimers” section below.",
+			"To third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), as well as our advisors and third party vendors, including but not limited to financial, legal and technical external advisors.",
+			"We (including any of our brands) may use your user-generated content you choose to submit to us including by displaying it on our Sites and using it for our promotional purposes.",
+			"We may also use and disclose your PII as we believe to be necessary or appropriate: (a) to comply with applicable law and respond to requests from public and government authorities; (b) to enforce our terms and conditions; and (c) to protect and/or defend our rights, privacy, safety or property, and/or that of our affiliates, you, or others."
 		  ],
 		  "Sold or Shared": "No",
-		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise required or permitted by law"
+		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Policy and as otherwise needed to comply with applicable law and internal company policies."
 		},
 				{
 		  "Category": {
@@ -376,7 +374,7 @@
 			"To provide 1099 tax form for prizes over $600 or process your purchases"
 		  ],
 		  "Disclosed To": [
-			"Prize fulfillment service providers for prizes over $600 or process your purchase"
+			"Prize fulfillment service providers for prizes over $600 or process your purchases"
 		  ],
 		  "Sold or Shared": "No",
 		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
@@ -393,57 +391,48 @@
 			  "Other forms of persistent or probabilistic identifiers",
 			  "Internet Protocol (IP) address",
 			  "Browsing and search history",
-			  "Other information regarding interaction with websites, applications, or advertisements"
+			  "other information regarding your interaction with websites, applications or advertisements"
 			]
 		  },
 		  "Sources": [
-			"Directly from you or via cookies and similar technologies",
+			"From you directly or via cookies and similar technologies",
 			"From service providers and advertising networks collecting such information"
 		  ],
 		  "Purpose": [
-			"Marketing",
-			"Data analysis",
-			"Audits",
-			"Fraud monitoring and prevention",
-			"Developing new products",
-			"Improving or modifying Services",
-			"Identifying usage trends",
-			"Determining effectiveness of promotional campaigns",
-			"Operating and expanding business activities"
+			"For our business purposes, such as marketing, data analysis, audits, fraud monitoring and prevention, developing new products, improving or modifying our Services, identifying usage trends, determining the effectiveness of promotional campaigns, and operating and expanding business activities, and similar purposes. For more information of how we use online activity information see our privacy policy above."
 		  ],
 		  "Disclosed To": [
-			"Service providers that provide services such as marketing, website hosting, data analysis, information technology and related infrastructure provision, and other similar services",
-			"Social media platforms and advertising networks to target and serve advertisements on our behalf"
+			"To our service providers who provide services such as marketing, website hosting, data analysis, information technology and related infrastructure provision, and other similar services.",
+			"To providers of social media platforms and advertising networks in order for them to target and serve advertisements on our behalf."
 		  ],
 		  "Sold or Shared": "No",
-		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies"
+		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		},
 		{
 		  "Category": {
 			"text": "Commercial Information",
 			"examples": [
 			  "Records of products purchased",
-			  "Records of products obtained",
-			  "Records of products considered",
+			  "obtained",
+			  "considered",
 			  "Other purchasing histories or tendencies"
 			]
 		  },
 		  "Sources": [
-			"Directly from you"
+			"Directly from you",
+			"Direct sales and customer service providers"
 		  ],
 		  "Purpose": [
-			"To respond to your inquiries",
-			"To fulfill your requests",
-			"To complete your purchases",
-			"To send marketing communications that we believe may be of interest",
-			"To personalize your experience on the Services by presenting products and offers tailored to you",
-			"For business purposes such as data analysis, audits, fraud monitoring and prevention, developing new products, improving or modifying Services, identifying usage trends, determining effectiveness of promotional campaigns, and operating and expanding business activities"
+			"To respond to your inquiries, fulfill your requests, and complete your purchases.",
+			"To send marketing communications that we believe may be of interest.",
+			"To personalize your experience on the Services by presenting products and offers tailored to you.",
+			"For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, improving or modifying our Services, identifying usage trends, determining the effectiveness of promotional campaigns, and operating and expanding business activities, and similar purposes."
 		  ],
 		  "Disclosed To": [
-			"Service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, direct sales, email delivery, credit card processing, auditing, and other similar services"
+			"To our service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, direct sales, email delivery, credit card processing, auditing and other similar services."
 		  ],
 		  "Sold or Shared": "No",
-		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies"
+		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		}
 	  ]
 	},
@@ -471,18 +460,17 @@
 		  },
 		  "Sources": [
 			"Directly from you",
-			"From companies or organizations that provide personal data to support pre-employment activities"
+			"From companies or organizations that we collect personal data to support pre-employment activities"
 		  ],
 		  "Purpose": [
 			"To consider and respond to your employment application"
 		  ],
 		  "Disclosed To": [
-			"Service providers for applicant portal and/or database management",
-			"Pre-employment screening service providers",
+			"To our service providers for applicant portal and/or database, and pre-employment screening",
 			"Tax credit company for special class employment"
 		  ],
 		  "Sold or Shared": "No",
-		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies"
+		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		},
 		{
 		  "Category": {
@@ -501,16 +489,16 @@
 		  ],
 		  "Purpose": [
 			"To consider and respond to your employment application",
-			"To comply with legal obligations"
+			"For compliance with legal obligations"
 		  ],
 		  "Disclosed To": [
-			"Service providers for applicant portal and/or database management",
-			"Background check vendors for pre-employment screening",
-			"Health clinics for drug and physical testing for pre-employment screening",
-			"Tax credit company for special class employment"
+			"To our service providers for applicant portal and/or database",
+			"Background check vendor for pre-employment screening",
+			"Health clinics for drug and physical testing for pre- employment screening",
+			"Tax credit company for special class employmen"
 		  ],
 		  "Sold or Shared": "No",
-		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies"
+		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		},
 		{
 		  "Category": {
@@ -531,12 +519,12 @@
 			"To consider and respond to your employment application"
 		  ],
 		  "Disclosed To": [
-			"Service providers for applicant portal and/or database management",
-			"Background check vendors for pre-employment screening",
+			"To our service providers for applicant portal and/or database",
+			"Background check vendor for pre-employment screening",
 			"Tax credit company for special class employment"
 		  ],
 		  "Sold or Shared": "No",
-		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies"
+		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		},
 		{
 		  "Category": {
@@ -556,11 +544,11 @@
 			"To consider and respond to your employment application"
 		  ],
 		  "Disclosed To": [
-			"Service providers for applicant portal and/or database management",
-			"Background check vendors for pre-employment screening"
+			"To our service providers for applicant portal and/or database",
+			"Background check vendor for pre-employment screening"
 		  ],
 		  "Sold or Shared": "No",
-		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies"
+		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		}
 	  ]
 	},
@@ -588,19 +576,16 @@
 			]
 		  },
 		  "Sources": [
-			"You, if you are a contact person for our business partners, vendors, distributors, suppliers, service providers, contractors, or other entities with which we have a business relationship or potential business relationship"
+			"You, if you are a contact person for any of our business partners, vendors, distributors, suppliers, service providers, contractors, or other entities with which we have a business relationship or potential business relationship."
 		  ],
 		  "Purpose": [
-			"For internal purposes",
-			"To contact you",
-			"To send and receive information",
-			"To otherwise facilitate the business relationship"
+			"For internal purposes, including to contact you, send and receive information, and otherwise facilitate the business relationship."
 		  ],
 		  "Disclosed To": [
-			"We do not disclose Business-to-Business Information outside our business relationship without your consent"
+			"We do not disclose B2B Information outside our business relationship without your consent."
 		  ],
 		  "Sold or Shared": "No",
-		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies"
+		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		}
 	  ]
 	},
@@ -636,17 +621,13 @@
 	  "text": "The Right To Know"
 	},
 	{
-	  "type": "paragraph",
-	  "text": "California residents may have the right to know:"
-	},
-	{
 	  "type": "list",
 	  "items": [
 		"what categories and specific pieces of PII we have collected about you;",
 		"the categories of sources from which PII are collected;",
 		"our business or commercial purpose for collecting, using, or disclosing PII;",
 		"the categories of third parties with whom we share PII; and",
-		"the categories of PII we have sold or disclosed for a business purpose."
+		"the categories of PII we have sold or disclosed for a business purpose"
 	  ]
 	},
 	{
@@ -655,7 +636,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "Information Sold or Shared. We have not sold or shared, as defined by the CPPA, any personal information to third parties for a business or commercial purpose since January 1, 2022."
+	  "text": "<u>Information Sold or Shared</u>. We have not sold or shared, as defined by the CPPA, any personal information to third parties for a business or commercial purpose since January 1, 2022."
 	},
 	{
 	  "type": "paragraph",
@@ -663,11 +644,11 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "To make a request for any of the information set forth above (a “Request to Know”), please submit a request pursuant to the instructions below. You may only make a Request to Know twice within a 12-month period. We will acknowledge your Request to Know within 10 days and will attempt to respond substantively within 45 – 90 days."
+	  "text": "To make a request for any of the information set forth above (a “Request to Know”), please submit a request pursuant to the instructions below. You may only make a Request to Know twice within a 12-month period. We will acknowledge your Request to Know within 10 days and will attempt to respond substantively within 45 – 90 days."
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You or your designated authorized agent can make a Request to Know the personal information we have about you by filling out our online form available here or emailing us at privacy@thewinegroup.com."
+	  "text": "You or your designated authorized agent can make a Request to Know the personal information we have about you by filling out our online form available <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={SITE}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
 	},
 	{
 	  "type": "heading",
@@ -680,11 +661,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "We do not collect or process sensitive personal information for the purpose of inferring characteristics."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "Sensitive information is defined by the CCPA as information that reveals any of the following: your social security, driver’s license, state identification card, or passport number, your account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account, your precise geolocation; your racial or ethnic origin, religious or philosophical beliefs, or union membership, the contents of your mail, email, and text messages unless the business is the intended recipient of the communication, and your genetic data, biometric information for the purpose of uniquely identifying you, information collected and analyzed concerning your health, and information collected and analyzed concerning your sex life or sexual orientation."
+	  "text": "We do not collect or process sensitive personal information for the purpose of inferring characteristics. Sensitive information is defined by the CCPA as information that reveals any of the following: your social security, driver’s license, state identification card, or passport number, your account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account, your precise geolocation; your racial or ethnic origin, religious or philosophical beliefs, or union membership, the contents of your mail, email, and text messages unless the business is the intended recipient of the communication, and your genetic data, biometric information for the purpose of uniquely identifying you, information collected and analyzed concerning your health, and information collected and analyzed concerning your sex life or sexual orientation."
 	},
 	{
 	  "type": "heading",
@@ -697,15 +674,11 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "To make a Request to Delete, please submit a request pursuant to the instructions below. We will acknowledge your Request to Know within 10 days and will attempt to respond substantively within 45 – 90 days."
+	  "text": "To make a Request to Delete, please submit a request pursuant to the instructions below. We will acknowledge your Request to Know within 10 days and will attempt to respond substantively within 45 – 90 days."
 	},
 	{
 	  "type": "paragraph",
-	  "text": "As permitted by law, if the information requested to be deleted is necessary for us to maintain, we will not be able to comply with your request. We will notify you if this is the case."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "You or your designated authorized agent can make a Request to Delete the personal information we have about you by filling out our online form available here or emailing us at privacy@thewinegroup.com."
+	  "text": "As permitted by law, if the information requested to be deleted is necessary for us to maintain, we will not be able to comply with your request. We will notify you if this is the case. You or your designated authorized agent can make a Request to Delete the personal information we have about you by filling out our online form available <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={SITE}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
 	},
 	{
 	  "type": "paragraph",
@@ -721,50 +694,33 @@
 	  "text": "This Privacy Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies, which are covered by such third parties’ privacy policies. For more information, we encourage you to check the privacy policies of these third parties to learn about their privacy practices."
 	},
 	{
-	  "type": "heading",
-	  "level": 3,
-	  "text": "Cookies"
-	},
-	{
 	  "type": "paragraph",
-	  "text": "As explained in our “Collection and Use Of Online Activity Information” section, you can opt out of cookies using your browser. Please note:"
+	  "text": "<u>Cookies</u>. As explained in our “Collection and Use Of Online Activity Information” section, you can opt out of cookies using your browser. Please note:"
 	},
 	{
 	  "type": "list",
 	  "items": [
 		"Opt-outs are device- and browser-based. You must opt out on each device and each browser where you want your choice to apply.",
 		"Opt-outs may be stored via cookies. If you clear cookies, your opt-out may no longer be valid and you must opt out again where you want your choices to apply.",
-		"We may still share your personal information with our service providers that help us perform functions that are necessary for our business such as vendors that host our website, credit card processors and analytics processors. These entities are contractually obligated to keep this information confidential and not use it for any purpose other than for the services they provide to our business.",
-		"You may still receive ads from us that are not tailored to your interests.",
-		"In addition to the above options to opt out of the sale or sharing of your information under the CCPA as described above, you have controls and choices with respect to collection and use of your information by third parties. These are summarized for you below. We do not control or maintain opt-out mechanisms for third-party companies and are not responsible for their operation."
+		"We may still share your personal information with our service providers that help us perform functions that are necessary for our business such as vendors that host our website, credit card processors and analytics processors. These entities are contractually obligated to keep this information confidential and not use it for any purpose other than for the services they provide to our business",
+		"You may still receive ads from us that are not tailored to your interests."
 	  ]
 	},
 	{
-	  "type": "heading",
-	  "level": 3,
-	  "text": "Advertising Opt Out"
+	  "type": "paragraph",
+	  "text": "In addition to the above options to opt out of the sale or sharing of your information under the CCPA as described above, you have controls and choices with respect to collection and use of your information by third parties. These are summarized for you below. We do not control or maintain opt-out mechanisms for third-party companies and are not responsible for their operation."
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You can opt out of sharing your information with third-party companies engaged in targeted advertising including social networking websites such as Google and Facebook using the following tools: For websites: <a href=\"https://optout.aboutads.info/?c=2&lang=EN\" target=\"_blank\" rel=\"noopener noreferrer\">https://optout.aboutads.info</a>. For mobile apps: <a href=\"https://www.aboutads.info/appchoices\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.aboutads.info/appchoices</a>."
-	},
-	{
-	  "type": "heading",
-	  "level": 3,
-	  "text": "Google Opt Out"
+	  "text": "Advertising Opt Out. You can opt out of sharing your information with third-party companies engaged in targeted advertising including social networking websites such as Google and Facebook using the following tools: For websites: <a href=\"https://optout.aboutads.info/?c=2&lang=EN\" target=\"_blank\" rel=\"noopener noreferrer\">https://optout.aboutads.info</a>. For mobile apps: <a href=\"https://www.aboutads.info/appchoices\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.aboutads.info/appchoices</a>."
 	},
 	{
 	  "type": "paragraph",
-	  "text": "If you would like to opt out of Google Analytics and Ads, you can. If you are on the web, you can opt out of Google Analytics by installing Google’s Opt-Out Browser Add-on <a href=\"https://tools.google.com/dlpage/gaoptout\" target=\"_blank\" rel=\"noopener noreferrer\"> https://tools.google.com/dlpage/gaoptout</a>, and you can opt out of interest-based Google ads using <a href=\"https://adssettings.google.com/u/0/authenticated\" target=\"_blank\" rel=\"noopener noreferrer\">https://adssettings.google.com/u/0/authenticated</a>."
-	},
-	{
-	  "type": "heading",
-	  "level": 3,
-	  "text": "Facebook Ad Preferences"
+	  "text": "Google Opt Out. If you would like to opt out of Google Analytics and Ads, you can. If you are on the web, you can opt out of Google Analytics by installing Google’s Opt Out browser add on <a href=\"https://tools.google.com/dlpage/gaoptout\" target=\"_blank\" rel=\"noopener noreferrer\"> https://tools.google.com/dlpage/gaoptout</a>, and you can opt out of interest-based Google ads using <a href=\"https://adssettings.google.com/u/0/authenticated\" target=\"_blank\" rel=\"noopener noreferrer\">https://adssettings.google.com/u/0/authenticated</a>."
 	},
 	{
 	  "type": "paragraph",
-	  "text": "To understand more about Facebook advertising and manage your preferences, please visit <a href=\"https://www.facebook.com/about/ads\">https://www.facebook.com/about/ads</a>. Log in to Facebook and go to Settings > Ads > Ad Settings (web) or Ad Preferences > Ad Settings (app) for more information."
+	  "text": " Facebook Ad Preferences. To understand more about Facebook advertising and manage your preferences, please visit <a href=\"https://www.facebook.com/about/ads\">https://www.facebook.com/about/ads</a>. Log in to Facebook and go to Settings > Ads > Ad Settings (web) or Ad Preferences > Ad Settings (app) for more information."
 	},
 	{
 	  "type": "heading",
@@ -773,11 +729,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You have the right to request that we correct any inaccurate information about you."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "To make a request to correct inaccurate information about you (a “Request to Correct”), please submit a request pursuant to the instructions below. We will acknowledge your request within 10 days and attempt to respond substantively within 45 – 90 days."
+	  "text": "You have the right to request that we correct any inaccurate information about you. To make a request to correct inaccurate information about you (a “Request to Correct”), please submit a request pursuant to the instructions below. We will acknowledge your request within 10 days and attempt to respond substantively within 45 – 90 days."
 	},
 	{
 	  "type": "paragraph",
@@ -785,11 +737,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You or your designated authorized agent can make a Request to Correct the personal information we have about you by filling out our online form available here or emailing us at privacy@thewinegroup.com."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "We will retain correspondence, documents, and information related to any Request to Correct for 24 months as required by law."
+	  "text": "You or your designated authorized agent can make a Request to Correct the personal information we have about you by filling out our online form available <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={SITE}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>. We will retain correspondence, documents, and information related to any Request to Correct for 24 months as required by law."
 	},
 	{
 	  "type": "heading",
@@ -801,21 +749,8 @@
 	  "text": "We do not use automated decision making processes."
 	},
 	{
-	  "type": "heading",
-	  "level": 2,
-	  "text": "Business-to-Business Information"
-	},
-	{
 	  "type": "paragraph",
-	  "text": "If you are a contact person for any of our business partners, vendors, distributors, suppliers, service providers, contractors, or other entities with which we have a business relationship or potential business relationship, we collect the contact information you provide to us, including name, phone number, address, email address and other contact and relationship information consistent with your role in facilitating that business relationship."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "We use that information for internal purposes, including to contact you, send and receive information, and otherwise facilitate the business relationship."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "We do not disclose that information outside our business relationship without your consent."
+	  "text": "<u>Business-to-Business Information</u>. If you are a contact person for any of our business partners, vendors, distributors, suppliers, service providers, contractors, or other entities with which we have a business relationship or potential business relationship, we collect the contact information you provide to us, including name, phone number, address, email address and other contact and relationship information consistent with your role in facilitating that business relationship. We use that information for internal purposes, including to contact you, send and receive information, and otherwise facilitate the business relationship. We do not disclose that information outside our business relationship without your consent."
 	},
 	{
 	  "type": "heading",
@@ -828,15 +763,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "Under California Law, California residents have the right to request in writing from businesses with which they have an established business relationship: (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including as defined by California Civil Code Section 1798.83 our affiliates that are separate legal entities) during the immediately preceding calendar year for the third-parties’ direct marketing purposes, and (2) the names and addresses of all such third parties."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "We will respond to such written requests within 30 days following receipt at the e-mail or mailing address specified below under “Contact Us”. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "Please note that we are required to respond to each customer only once per calendar year."
+	  "text": "Under California Law, California residents have the right to request in writing from businesses with which they have an established business relationship: (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including as defined by California Civil Code Section 1798.83 our affiliates that are separate legal entities) during the immediately preceding calendar year for the third-parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. We will respond to such written requests within 30 days following receipt at the e-mail or mailing address specified below under “Contact Us”. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are required to respond to each customer only once per calendar year."
 	},
 	{
 	  "type": "heading",
@@ -854,39 +781,11 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "We may offer programs, benefits, sweepstakes or other offerings related to the collection or retention of personal information which may be deemed a “financial incentive” under the CCPA."
+	  "text": "We may offer programs, benefits, sweepstakes or other offerings related to the collection or retention of personal information which may be deemed a “financial incentive” under the CCPA. Consumers who elect to participate in financial incentive programs (such as reward programs, limited-time promotions, sweepstakes, or contests) may be asked to provide personal information such as your name, email address, physical address, and or phone number. We may also collect commercial information such as credit card numbers and payment information (in limited circumstances), details of transactions that you carry out through our services, including products purchased or considered, and wine club information from consumers who elect to participate in a rewards program. The details of each program or offering are described in the applicable terms and conditions."
 	},
 	{
 	  "type": "paragraph",
-	  "text": "Consumers who elect to participate in financial incentive programs (such as reward programs, limited-time promotions, sweepstakes, or contests) may be asked to provide personal information such as your name, email address, physical address, and or phone number."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "We may also collect commercial information such as credit card numbers and payment information (in limited circumstances), details of transactions that you carry out through our services, including products purchased or considered, and wine club information from consumers who elect to participate in a rewards program."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "The details of each program or offering are described in the applicable terms and conditions."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "Under the CCPA, the incentives we offer in exchange for the opportunity to market to you may be considered financial incentives."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "The value of the information you provide as part of a program will vary based on the program in which you participate and the number of consumers who chose to participate."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "We have made the determination that the CCPA-permitted financial incentive we offer is reasonably related to the value of your personal information, and we provide written terms that describe the program’s material aspects."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "Participation in a financial incentive program requires your prior opt-in consent, which you may revoke at any time but you may lose access to the relevant incentive."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "If you wish to opt-out, you may do so by sending your request to privacy@thewinegroup.com."
+	  "text": "Under the CCPA, the incentives we offer in exchange for the opportunity to market to you may be considered financial incentives. The value of the information you provide as part of a program will vary based on the program in which you participate and the number of consumers who chose to participate. We have made the determination that the CCPA-permitted financial incentive we offer is reasonably related to the value of your personal information, and we provide written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt-in consent, which you may revoke at any time but you may lose access to the relevant incentive. If you wish to opt-out, you may do so by sending your request to <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>. "
 	},
 	{
 	  "type": "heading",
@@ -898,13 +797,13 @@
 	  "text": "Consumers who have a visual disability may be able to use a screen reader or other text-to-speech or text-to-Braille tool to review the contents of this Notice."
 	},
 	{
-	  "type": "heading",
-	  "level": 2,
+	  "type": "paragraph",
+	  "bold": true,
 	  "text": "How To Submit A Request"
 	},
 	{
 	  "type": "paragraph",
-	  "text": "To submit a request, click here or email us at privacy@thewinegroup.com."
+	  "text": "To submit a request, click <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={SITE}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
 	},
 	{
 	  "type": "heading",
@@ -921,19 +820,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your PII or complying with your request."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "If you have an account with us, we may verify your identity by requiring you to sign into your account."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may require you to provide additional PII for verification and, in certain circumstances, sign a declaration under penalty of perjury that you are the consumer whose PII is the subject of the request."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "If we cannot verify your identity, we will not provide or delete your PII."
+	  "text": "To help protect your privacy and maintain security, we will take steps to verify your identity before granting you access to your PII or complying with your request. If you have an account with us, we may verify your identity by requiring you to sign into your account. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may require you to provide additional PII for verification and, in certain circumstances, sign a declaration under penalty of perjury that you are the consumer whose PII is the subject of the request. If we cannot verify your identity, we will not provide or delete your PII."
 	},
 	{
 	  "type": "heading",
@@ -942,11 +829,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You may submit a request through an authorized agent using the same methods available to you."
-	},
-	{
-	  "type": "paragraph",
-	  "text": "If you designate an authorized agent to make an access, deletion or opt-out of sale request on your behalf (1) we may require you to provide the authorized agent signed permission to do so, and (2) for access and deletion requests, we may require you to verify your own identity directly with us (as described above), and confirm that you have provided the agent permission to submit the request."
+	  "text": "You may submit a request through an authorized agent using the same methods available to you. If you designate an authorized agent to make an access, deletion or opt-out of sale request on your behalf (1) we may require you to provide the authorized agent signed permission to do so, and (2) for access and deletion requests, we may require you to verify your own identity directly with us (as described above), and confirm that you have provided the agent permission to submit the request."
 	},
 	{
 	  "type": "heading",
@@ -958,13 +841,8 @@
 	  "text": "Employees and contractors are provided notice via different statements."
 	},
 	{
-	  "type": "heading",
-	  "level": 2,
-	  "text": "Contacting Us"
-	},
-	{
 	  "type": "paragraph",
-	  "text": "If you have questions or concerns regarding this California Privacy Notice or the practices described, please email us at privacy@thewinegroup.com."
+	  "text": "<b>Contacting Us</b> If you have questions or concerns regarding this California Privacy Notice or the practices described, please email us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
 	}
   ]
 }
