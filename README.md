@@ -45,7 +45,7 @@ To use it, include the following HTML markup on your page:
 ```html
 
 <body data-legal-site="<SITENAME>">
-  <div id="legal-page" data-slug="<legal slugs>"
+  <div id="legal-page" data-slug="<legal slugs>">
     <p id="legal-last-updated"></p>
     <h1 id="legal-title"></h1>
     <div id="legal-content"></div>
