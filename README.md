@@ -1,7 +1,7 @@
 # WP Legal Pages – Centralized Legal Content API & SDK
 
 This repository provides a **centralized, reusable source of legal content**
-(e.g. Privacy Policy, Terms of Service, Cookie Policy, CCPA notices) that can be
+(e.g. Privacy Policy, Terms of Service, etc..) that can be
 consumed dynamically by websites.
 
 The goal is to update legal text **once** and have the changes reflected across
