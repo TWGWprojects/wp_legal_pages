@@ -14,7 +14,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "<b>Supplier Certification</b>"
+      "bold": true,
+      "text": "Supplier Certification"
     },
     {
       "type": "paragraph",
@@ -27,7 +28,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "<b>Supplier Verification and Audit</b>"
+      "bold": true,
+      "text": "Supplier Verification and Audit"
     },
     {
       "type": "paragraph",
@@ -36,7 +38,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "<b>Internal Accountability and Training</b>"
+      "bold": true,
+      "text": "Internal Accountability and Training"
     },
     {
       "type": "paragraph",
@@ -45,7 +48,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "<b>On-going Improvement</b>"
+      "bold": true,
+      "text": "On-going Improvement"
     },
     {
       "type": "paragraph",
