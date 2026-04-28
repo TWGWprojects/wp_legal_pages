@@ -143,7 +143,7 @@
     },
     {
       "type": "paragraph",
-      "text": "While we seek to maintain the timeliness, integrity and security of the Site, we do not guarantee that the Site is or will remain updated, complete, correct or secure, or that access to the Site will be uninterrupted. The Site may include inaccuracies, errors and materials that violate or conflict with this Agreement. Additionally, third parties may make unauthorized alterations to the Site. If you become aware of any such alteration, contact us at <a href=\"mailto:info@{SITE}.com\" target=\"_blank\" rel=\"noopener noreferrer\">info@{SITE}.com</a> with a description of such alteration and its location on the Site."
+      "text": "While we seek to maintain the timeliness, integrity and security of the Site, we do not guarantee that the Site is or will remain updated, complete, correct or secure, or that access to the Site will be uninterrupted. The Site may include inaccuracies, errors and materials that violate or conflict with this Agreement. Additionally, third parties may make unauthorized alterations to the Site. If you become aware of any such alteration, contact us at <a href=\"mailto:info@{EMAIL}.com\" target=\"_blank\" rel=\"noopener noreferrer\">info@{EMAIL}.com</a> with a description of such alteration and its location on the Site."
     },
     {
       "type": "paragraph",
@@ -175,7 +175,7 @@
     },
     {
       "type": "paragraph",
-      "text": "<b>20. Information or Complaints</b>. If you have a question or complaint regarding the Site, please send an e-mail to <a href=\"mailto:info@{SITE}.com\" target=\"_blank\" rel=\"noopener noreferrer\">info@{SITE}.com</a>. You may also contact us by writing to Information Request/Complaint, 17000 East Highway 120, Ripon, CA, or by calling us at (925) 456-2500. Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. California residents may reach the Complaint Assistance Unit of the Division of Consumer services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210."
+      "text": "<b>20. Information or Complaints</b>. If you have a question or complaint regarding the Site, please send an e-mail to <a href=\"mailto:info@{EMAIL}.com\" target=\"_blank\" rel=\"noopener noreferrer\">info@{EMAIL}.com</a>. You may also contact us by writing to Information Request/Complaint, 17000 East Highway 120, Ripon, CA, or by calling us at (925) 456-2500. Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us. California residents may reach the Complaint Assistance Unit of the Division of Consumer services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210."
     },
     {
       "type": "paragraph",
