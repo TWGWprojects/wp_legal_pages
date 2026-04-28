@@ -5,7 +5,7 @@
   "content": [
     {
       "type": "paragraph",
-      "text": "Please read these Terms of Service (this “Agreement” or TOS) carefully. This Agreement is between you and The Wine Group LLC doing business as Meiomi Wines (“Company” “TWG,” “we” or “us”) concerning your use of (including any access to) Company’s website, currently located at Meiomi Wines (together with any materials and services available therein, and successor website(s) thereto, the “Site”). This Agreement hereby incorporates by this reference any additional terms and conditions with respect to the Site posted by Company to the Site, or otherwise made available to you by Company.  For more information about Company and our brands, please visit <a href=\"https://www.thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.thewinegroup.com</a>."
+      "text": "Please read these Terms of Service (this “Agreement” or TOS) carefully. This Agreement is between you and The Wine Group LLC doing business as {SITE} Wines (“Company” “TWG,” “we” or “us”) concerning your use of (including any access to) Company’s website, currently located at {SITE} Wines (together with any materials and services available therein, and successor website(s) thereto, the “Site”). This Agreement hereby incorporates by this reference any additional terms and conditions with respect to the Site posted by Company to the Site, or otherwise made available to you by Company.  For more information about Company and our brands, please visit <a href=\"https://www.thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.thewinegroup.com</a>."
     },
     {
       "type": "paragraph",
