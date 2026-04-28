@@ -44,10 +44,11 @@ To use it, include the following HTML markup on your page:
 
 ```html
 
-<body data-legal-site="<SITENAME>">
-  <div id="legal-page" data-slug="<legal slugs>">
+<body data-legal-site="SITENAME" data-legal-emaildomain="EMAILDOMAIN">
+  <div id="legal-page" data-slug="legal-slug">
     <p id="legal-last-updated"></p>
     <h1 id="legal-title"></h1>
     <div id="legal-content"></div>
   </div>
 </body>
+
