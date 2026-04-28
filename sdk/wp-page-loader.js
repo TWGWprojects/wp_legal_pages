@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
   
   const site = document.body.dataset.legalSite || 'example';
+  const email = document.body.dataset.legalEmaildomain || 'example.com';
 
 
   fetch(`${API_BASE}/${slug}.json`)
@@ -46,8 +47,10 @@ document.addEventListener('DOMContentLoaded', () => {
           case 'paragraph': {
             el = document.createElement('p');
             // clickable links in paragraph text
-            el.innerHTML = block.text || '';
-			el.innerHTML = block.text.replaceAll('{SITE}', site);
+			  const txt = (block.text || '')
+			    .replaceAll('{SITE}', site)
+			    .replaceAll('{EMAIL}', email);
+
             if (block.bold) el.style.fontWeight = 'bold';
             break;
           }
