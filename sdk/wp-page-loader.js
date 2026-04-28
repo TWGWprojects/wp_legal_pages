@@ -6,11 +6,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const slug = container.dataset.slug;
   if (!slug) return;
-  
-  
+
+  // Read site variables from <body data-legal-site="..." data-legal-emaildomain="...">
   const site = document.body.dataset.legalSite || 'example';
   const email = document.body.dataset.legalEmaildomain || 'example.com';
-
 
   fetch(`${API_BASE}/${slug}.json`)
     .then(res => {
@@ -18,13 +17,13 @@ document.addEventListener('DOMContentLoaded', () => {
       return res.json();
     })
     .then(page => {
-      // ✅ Title
+      //  Title
       const titleEl = document.getElementById('legal-title');
       if (titleEl) {
-        titleEl.textContent = page.title;
+        titleEl.textContent = page.title || '';
       }
 
-      // ✅ Last Updated
+      // Last Updated
       const updatedEl = document.getElementById('legal-last-updated');
       if (updatedEl && page.lastUpdated) {
         updatedEl.textContent = `Last Updated: ${page.lastUpdated}`;
@@ -32,6 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const contentEl = document.getElementById('legal-content');
       if (!contentEl) return;
+
       contentEl.innerHTML = '';
 
       (page.content || []).forEach(block => {
@@ -46,10 +46,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
           case 'paragraph': {
             el = document.createElement('p');
-            // clickable links in paragraph text
-			  const txt = (block.text || '')
-			    .replaceAll('{SITE}', site)
-			    .replaceAll('{EMAIL}', email);
+
+            // Replace placeholders
+            const txt = replaceTokens(block.text || '', { site, email });
+
+            // If your JSON includes HTML (like <a>), use innerHTML.
+            // If you want plain text only, switch to: el.textContent = txt;
+            el.innerHTML = txt;
 
             if (block.bold) el.style.fontWeight = 'bold';
             break;
@@ -57,17 +60,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
           case 'list': {
             el = document.createElement('ul');
+
             (block.items || []).forEach(item => {
               const li = document.createElement('li');
-              // clickable links in list items too
-              li.innerHTML = item || '';
+
+              // Replace placeholders
+              const txt = replaceTokens(item || '', { site, email });
+
+              // Allow clickable links if item contains <a ...>
+              li.innerHTML = txt;
+
               el.appendChild(li);
             });
+
             break;
           }
 
           case 'table': {
-            el = renderLegalTable(block);
+            el = renderLegalTable(block, { site, email });
             break;
           }
 
@@ -81,16 +91,23 @@ document.addEventListener('DOMContentLoaded', () => {
     })
     .catch(err => console.error('Legal page error:', err));
 
-  // --- Helpers ---
+  function replaceTokens(str, { site, email }) {
+    return String(str || '')
+      .replaceAll('{SITE}', site)
+      .replaceAll('{EMAIL}', email);
+  }
 
-  function renderLegalTable(block) {
+  /**
+   * Render legal table block
+   */
+  function renderLegalTable(block, { site, email }) {
     const wrapper = document.createElement('div');
     wrapper.className = 'legal-table-wrapper';
 
     // Optional table title
     if (block.title) {
       const h = document.createElement('h3');
-      h.textContent = block.title;
+      h.textContent = replaceTokens(block.title, { site, email });
       wrapper.appendChild(h);
     }
 
@@ -103,11 +120,13 @@ document.addEventListener('DOMContentLoaded', () => {
     // THEAD
     const thead = document.createElement('thead');
     const trHead = document.createElement('tr');
+
     columns.forEach(col => {
       const th = document.createElement('th');
       th.textContent = col;
       trHead.appendChild(th);
     });
+
     thead.appendChild(trHead);
     table.appendChild(thead);
 
@@ -122,32 +141,50 @@ document.addEventListener('DOMContentLoaded', () => {
         const value = row ? row[col] : '';
 
         // Category can be object {text, examples[]}
-        if (col === 'Category' && value && typeof value === 'object' && !Array.isArray(value)) {
+        if (
+          col === 'Category' &&
+          value &&
+          typeof value === 'object' &&
+          !Array.isArray(value)
+        ) {
           const strong = document.createElement('strong');
-          strong.textContent = value.text || '';
+          strong.textContent = replaceTokens(value.text || '', { site, email });
           td.appendChild(strong);
 
           if (Array.isArray(value.examples) && value.examples.length) {
             const ex = document.createElement('div');
             ex.className = 'legal-table-examples';
-            ex.innerHTML = `<em>Examples:</em> ${escapeHtml(value.examples.join(', '))}`;
+
+            const examplesText = replaceTokens(value.examples.join(', '), { site, email });
+
+            // Escape examples since we render it as HTML wrapper text
+            ex.innerHTML = `<em>Examples:</em> ${escapeHtml(examplesText)}`;
+
             td.appendChild(ex);
           }
         }
         // Arrays -> bullet list within cell
         else if (Array.isArray(value)) {
           const ul = document.createElement('ul');
+
           value.forEach(item => {
             const li = document.createElement('li');
+
+            // Replace placeholders
+            const txt = replaceTokens(item || '', { site, email });
+
             // allow clickable links if item contains <a ...>
-            li.innerHTML = item || '';
+            li.innerHTML = txt;
+
             ul.appendChild(li);
           });
+
           td.appendChild(ul);
         }
-        // Simple string -> allow clickable links too
+        // Simple string/object -> allow clickable links
         else {
-          td.innerHTML = value || '';
+          const txt = replaceTokens(value || '', { site, email });
+          td.innerHTML = txt;
         }
 
         tr.appendChild(td);
@@ -158,9 +195,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     table.appendChild(tbody);
     wrapper.appendChild(table);
+
     return wrapper;
   }
 
+  /**
+   * Escape HTML helper
+   */
   function escapeHtml(str) {
     return String(str)
       .replaceAll('&', '&amp;')
@@ -168,5 +209,12 @@ document.addEventListener('DOMContentLoaded', () => {
       .replaceAll('>', '&gt;')
       .replaceAll('"', '&quot;')
       .replaceAll("'", '&#039;');
+  }
+
+  function linkify(escapedText) {
+    return String(escapedText).replace(
+      /(https?:\/\/[^\s<]+)/g,
+      '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>'
+    );
   }
 });
