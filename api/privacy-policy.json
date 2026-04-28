@@ -648,7 +648,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You or your designated authorized agent can make a Request to Know the personal information we have about you by filling out our online form available <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={SITE}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
+	  "text": "You or your designated authorized agent can make a Request to Know the personal information we have about you by filling out our online form available <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={EMAIL}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
 	},
 	{
 	  "type": "heading",
@@ -678,7 +678,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "As permitted by law, if the information requested to be deleted is necessary for us to maintain, we will not be able to comply with your request. We will notify you if this is the case. You or your designated authorized agent can make a Request to Delete the personal information we have about you by filling out our online form available <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={SITE}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
+	  "text": "As permitted by law, if the information requested to be deleted is necessary for us to maintain, we will not be able to comply with your request. We will notify you if this is the case. You or your designated authorized agent can make a Request to Delete the personal information we have about you by filling out our online form available <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={EMAIL}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
 	},
 	{
 	  "type": "paragraph",
@@ -737,7 +737,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "You or your designated authorized agent can make a Request to Correct the personal information we have about you by filling out our online form available <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={SITE}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>. We will retain correspondence, documents, and information related to any Request to Correct for 24 months as required by law."
+	  "text": "You or your designated authorized agent can make a Request to Correct the personal information we have about you by filling out our online form available <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={EMAIL}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>. We will retain correspondence, documents, and information related to any Request to Correct for 24 months as required by law."
 	},
 	{
 	  "type": "heading",
@@ -803,7 +803,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": "To submit a request, click <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={SITE}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
+	  "text": "To submit a request, click <a href=\"https://www.thewinegroup.com/ccpa-request/?recipient={EMAIL}\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> or emailing us at <a href=\"mailto:privacy@thewinegroup.com\" target=\"_blank\" rel=\"noopener noreferrer\">privacy@thewinegroup.com</a>."
 	},
 	{
 	  "type": "heading",
