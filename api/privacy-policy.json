@@ -284,7 +284,8 @@
 	{
 	  "type": "paragraph",
 	  "bold": true,
-	  "text": "<b>California Consumer Privacy Act (CCPA) Privacy Notice</b>"
+	  "id": "ccpa",
+	  "text": "California Consumer Privacy Act (CCPA) Privacy Notice"
 	},
 	{
 	  "type": "paragraph",

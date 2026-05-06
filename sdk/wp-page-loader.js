@@ -46,6 +46,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
           case 'paragraph': {
             el = document.createElement('p');
+			
+			if (block.id) el.id = block.id; // ✅ enables #ccpa
 
             // Replace placeholders
             const txt = replaceTokens(block.text || '', { site, email });
