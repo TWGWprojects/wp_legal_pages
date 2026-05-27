@@ -721,7 +721,7 @@
 	},
 	{
 	  "type": "paragraph",
-	  "text": " Facebook Ad Preferences. To understand more about Facebook advertising and manage your preferences, please visit <a href=\"https://www.facebook.com/about/ads\">https://www.facebook.com/about/ads</a>. Log in to Facebook and go to Settings > Ads > Ad Settings (web) or Ad Preferences > Ad Settings (app) for more information."
+	  "text": " Facebook Ad Preferences. To understand more about Facebook advertising and manage your preferences, please visit <a href=\"https://www.facebook.com/about/ads\" target=\"_blank\" rel=\"noopener noreferrer\"> https://www.facebook.com/about/ads</a>. Log in to Facebook and go to Settings > Ads > Ad Settings (web) or Ad Preferences > Ad Settings (app) for more information."
 	},
 	{
 	  "type": "heading",
