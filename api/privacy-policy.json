@@ -365,7 +365,7 @@
 			  "Social Security number (for sweepstakes and contest winners",
 			  "credit card information for purchases",
 			  "financial information",
-			  "demographic information"
+			  "demographic information)"
 			]
 		  },
 		  "Sources": [
@@ -377,7 +377,7 @@
 		  "Disclosed To": [
 			"Prize fulfillment service providers for prizes over $600 or process your purchases."
 		  ],
-		  "Sold or Shared": "No.",
+		  "Sold or Shared": "No",
 		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		},
 		{
@@ -470,7 +470,7 @@
 			"To our service providers for applicant portal and/or database, and pre-employment screening.",
 			"Tax credit company for special class employment."
 		  ],
-		  "Sold or Shared": "No.",
+		  "Sold or Shared": "No",
 		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		},
 		{
@@ -498,7 +498,7 @@
 			"Health clinics for drug and physical testing for pre- employment screening.",
 			"Tax credit company for special class employment."
 		  ],
-		  "Sold or Shared": "No.",
+		  "Sold or Shared": "No",
 		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		},
 		{
@@ -524,7 +524,7 @@
 			"Background check vendor for pre-employment screening.",
 			"Tax credit company for special class employment."
 		  ],
-		  "Sold or Shared": "No.",
+		  "Sold or Shared": "No",
 		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		},
 		{
@@ -548,7 +548,7 @@
 			"To our service providers for applicant portal and/or database.",
 			"Background check vendor for pre-employment screening."
 		  ],
-		  "Sold or Shared": "No.",
+		  "Sold or Shared": "No",
 		  "Retention Period": "No longer than necessary to fulfill the purposes outlined in this Privacy Policy and as otherwise needed to comply with applicable law and internal company policies."
 		}
 	  ]
